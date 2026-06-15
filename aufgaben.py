@@ -69,6 +69,16 @@ def längste_elment(liste):
             return wort
 
 
+def längste_elment(liste):
+    max_wort =""
+    for wort in liste:
+        if len(wort) >=len(max_wort):
+            max_wort =wort
+
+    return max_wort
+
+
+
 print(längste_elment(wörter_liste))
 
 # Schreibe eine Funktion die aus einer Liste von Zahlen die Summe berechnet.
