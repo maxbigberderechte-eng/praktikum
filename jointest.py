@@ -18,6 +18,8 @@ series = [
     {"title": "Westworld", "seasons": 3, "initial_release": 2016},
 ]
 
+def neue_funckeion():
+    print("x")
 
 def print_show_info(shows):
     ergebnis = []
