@@ -20,10 +20,11 @@
 # Schreibe eine Funktion die (für eine gerade Anzahl von Eingaben) den Abstand(x-y) von je zwei Zahlen berechnet.
 # Erweitere deine Funktion so das sie auch mit einer Liste mit einer ungeraden Anzahl an Elementen funktioniert.
 
-# Schreibe eine Funktion die aus einer Liste von Listen eine "flache" Liste macht. ([[1],[2]] soll zu [1,2] werden)
+# Schreibe eine Funktion die aus einer Liste von Listen eine "flache" Liste macht. [[1],[2]] soll zu [1,2] werden)
 
 # Schreibe eine Funktion die eine Liste von Zahlen sortiert.
 
 # Schreibe eine Schleife die 0-n Sterne("*") in n Zeilen ausgibt.
 
 # Schreibe eine Schleife die nur die Primzahlen 0-n ausgibt.
+
