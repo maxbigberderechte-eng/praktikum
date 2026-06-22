@@ -8,4 +8,5 @@ eingabe2 = [1, 2, 3, 4, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1,
 nullen = [0, 0]
 liste_liste = [[1, 2],[2, 1]]
 
-
+def kp(liste):
+    liste = not liste

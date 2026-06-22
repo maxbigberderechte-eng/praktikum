@@ -41,3 +41,15 @@ def print_show_info(shows):
 for zeile in print_show_info(series):
      print(zeile)
 
+def is_palindrome(word):
+    reversed_word = reversed(word)
+
+    if list(word) == list(reversed_word):
+        return (True)
+    else:
+        return (False)
+
+print(is_palindrome("ghg"))
+
+
+
