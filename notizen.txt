@@ -1,0 +1,18 @@
+git status
+zeigt alle veränderungen
+
+git add [file]
+zwichen schrit für commit
+
+git commit -m "notitz"
+back up
+
+git log
+zeigt was man alles gemacht hat(commit, bransch, ...)
+
+git branch
+zeigt alle brenches
+
+
+
+https://education.github.com/git-cheat-sheet-education.pdf
