@@ -1,0 +1,5 @@
+# 1) Scheibe eine Funktion, die ein sicheres Passwort generiert.
+    # Das Programm soll den Nutzer fragen, wie lang das Passwort sein soll. 
+    # Ist die Eingabe < 8, dann gibt es eine Fehlermeldung
+    # Ist die EIngabe > 24, gibt es auch eine Fehlermeldung
+    # Die Ausgabe soll ein zufälliges Passwort aus Buchstaben, Zahlen und Sonderzeichen sein.
