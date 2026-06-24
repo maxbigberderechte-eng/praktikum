@@ -2,15 +2,17 @@ import random
 import string
 
 laenge_passwort = ""
+PROMT = "Wie lang soll dein passwort sein?(8 bis 24 zeichen):"
+
 
 while type(laenge_passwort) != int:
-    laenge_passwort = input("wie lang soll dein passwort sein?(8 bis 24 zeichen):")
+    laenge_passwort = input(PROMT)
     try:
         laenge_passwort = int(laenge_passwort)
 
         while laenge_passwort < 8 or laenge_passwort > 24:
             print("bitte eine zahl zwichen 8 und 24")
-            laenge_passwort = input("wie lang soll dein passwort sein?(8 bis 24 zeichen):")
+            laenge_passwort = input(PROMT)
             laenge_passwort = int(laenge_passwort)
 
     except (TypeError, ValueError):
