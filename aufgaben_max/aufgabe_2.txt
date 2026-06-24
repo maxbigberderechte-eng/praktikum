@@ -1,0 +1,10 @@
+# Schreibe ein Zahlenratespiel.
+# Das programm waehlt eine Zahl zwischen 1 und 100 
+# Der User hat 3 Versuche die Zahl zu raten
+# nach der Eingabe gibt das Programm aus:
+# 'Fast!' wenn die Eingabezahl +/- 5 von der Geheimzahl entfernt ist
+# 'Nicht schlecht!' wenn die Zahl +/- 15 von der Geheimzahl entfernt ist
+# Ausserdem : "Die Geheimzahlzahl ist groesser / kleiner.
+# Rät User die Zahl nicht, erscheint " Du hast verloren, die Zahl war {Zahl}!
+#
+# Variante: User darf wählen, wieviele Versuche er/sie haben möchte (<= 10).
