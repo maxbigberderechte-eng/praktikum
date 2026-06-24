@@ -1,4 +1,5 @@
 
+
 wörter_liste = ["aaa", "bbb", "cc", "ddddddd", "t"]
 zahlen_liste = [1, 2, 3, -1, -2, -3]
 zahlen_liste_klein = [1, -2]
